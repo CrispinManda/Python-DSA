@@ -16,3 +16,7 @@ print(data.describe())
 
 print("last 5 rows of the dataset:")
 print(data.tail())
+
+
+
+# USE LINK https://www.kdnuggets.com/10-essential-pandas-functions-every-data-scientist-should-know
