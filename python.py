@@ -45,12 +45,12 @@ print(len(thislist))
 thislist.append('pawpaw')
 print(thislist)
 
-#The pop() method removes the specified index.
+#The pop() method removes the specified item.
 thislist.remove('banana')
 print(thislist)
 
 #The pop() method removes the specified index.
-thislist.pop('apple')
+thislist.pop('1')
 print(thislist)
 
 
