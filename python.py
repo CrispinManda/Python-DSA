@@ -71,6 +71,3 @@ print(type(Number)) #float
 
 print(type(fruit)) #tuple
 
-
-
-
