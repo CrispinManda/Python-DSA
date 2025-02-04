@@ -26,6 +26,7 @@ Combobox – Dropdown menus.
 Frame – Container to group widgets.
 Canvas – For drawing shapes or images.
 Scrollbar – Adds scroll functionality.
+
 Widget Properties:
 Configure properties like text, font, color, width, height, and padding.
 Methods to update, disable, or enable widgets dynamically.
@@ -42,6 +43,7 @@ Geometry Manager Types:
 Pack() – Packs widgets side-by-side or top-to-bottom.
 Grid() – Organizes widgets in a row-column structure.
 Place() – Positions widgets using x, y coordinates.
+
 5. Event Handling in Tkinter
 Handle user interactions like clicks, key presses, and mouse events.
 

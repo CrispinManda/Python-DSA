@@ -1,0 +1,11 @@
+ID,Name,Age,Email,Salary
+1,Alice,25.0,alice@example.com,50000.0
+2,Bob,30.0,bob@example.com,60000.0
+3,Unknown,29.857142857142858,charlie@example.com,55000.0
+4,David,40.0,noemail@example.com,55000.0
+5,Eve,22.0,eve@example.com,45000.0
+6,Frank,29.857142857142858,frank@example.com,70000.0
+7,Grace,29.0,noemail@example.com,55000.0
+8,Unknown,35.0,hannah@example.com,52000.0
+9,Ivy,29.857142857142858,ivy@example.com,58000.0
+10,Jack,28.0,jack@example.com,55000.0
